@@ -1,3 +1,3 @@
 # kickstarter-dataset-exploration
 
-This is a data science project for studying the data available on kickstarter
+A data science project to study crowdfunding by using the data available on kickstarter
